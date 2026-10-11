@@ -1,7 +1,6 @@
 "use client";
 
-import Link from "next/link";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { usePathname, useSearchParams } from "next/navigation";
 import { useEffect, useId, useRef, useState } from "react";
 import { localePath, text, type Locale } from "@/lib/locale";
 import { useLocale } from "./LocaleContext";
@@ -17,7 +16,6 @@ export default function LanguageSwitcher() {
   const locale = useLocale();
   const pathname = usePathname();
   const search = useSearchParams().toString();
-  const router = useRouter();
   const [open, setOpen] = useState(false);
   const control = useRef<HTMLDivElement>(null);
   const trigger = useRef<HTMLButtonElement>(null);
@@ -65,17 +63,19 @@ export default function LanguageSwitcher() {
       }}>
       {languages.map(({ locale: language, label: optionLabel }, index) => {
         const href = localePath(pathname, language) + (search ? `?${search}` : "");
-        return <li key={language} role="none"><Link ref={element => { options.current[index] = element; }}
-          href={href} prefetch={false} lang={language} hrefLang={language} role="menuitemradio" aria-checked={language === locale} tabIndex={-1}
+        return <li key={language} role="none"><a ref={element => { options.current[index] = element; }}
+          href={href} lang={language} hrefLang={language} role="menuitemradio" aria-checked={language === locale} tabIndex={-1}
           onClick={event => {
             setOpen(false);
+            // Resolve English rewrites with a document request instead of
+            // reusing the previous locale's client-side route tree.
+            event.currentTarget.href = href + window.location.hash;
             if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
             if (language === locale) { event.preventDefault(); trigger.current?.focus(); return; }
-            if (window.location.hash) { event.preventDefault(); router.push(href + window.location.hash); }
           }}>
           <LanguageFlag locale={language} className={styles.languageFlag} /><span>{optionLabel}</span>
           {language === locale && <span className={styles.languageCheck} aria-hidden="true">✓</span>}
-        </Link></li>;
+        </a></li>;
       })}
     </ul>}
   </div>;
