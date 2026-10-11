@@ -23,7 +23,7 @@ Vercel Hobby is restricted to personal, non-commercial use, so it is unsuitable 
 
 Keep Next.js rendering and image optimization enabled rather than converting this project to a static export. Image sizing, lazy loading, and blur placeholders belong to the existing delivery pipeline. [Next.js image optimization](https://nextjs.org/docs/app/getting-started/images)
 
-English public URLs stay unprefixed, such as `/shop`; Italian uses `/it/shop`. Both are served from `app/[locale]`, with internal rewrites for English. Keep locale-aware navigation, document language, canonical URLs, and language alternates together. [Next.js internationalization](https://nextjs.org/docs/app/guides/internationalization)
+English public URLs stay unprefixed, such as `/shop`, and have concrete App Router entries in `app/(english)`. Italian uses `/it/shop` through `app/[locale]`, whose generated locale is `it`. Both layouts reuse the existing studio shell and localized page components. English navigation does not depend on internal rewrites; `/en/*` remains a redirect to the public English URL. Keep locale-aware navigation, document language, canonical URLs, and language alternates together. [Next.js internationalization](https://nextjs.org/docs/app/guides/internationalization)
 
 ## Phase 1 — Confirm the launch facts
 

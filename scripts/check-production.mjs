@@ -9,12 +9,12 @@ import path from 'node:path';
 const base = new URL(process.argv[2] || 'http://localhost:3000');
 const reportPath = process.argv[3];
 const catalog = JSON.parse(await readFile(new URL('../data/products.json', import.meta.url), 'utf8'));
-function request(route) {
+function request(route, extraHeaders = {}) {
   const url = new URL(route, base);
   return new Promise((resolve, reject) => {
     const start = performance.now();
     const transport = url.protocol === 'https:' ? https : http;
-    const req = transport.get(url, { headers: { 'Accept-Encoding': 'gzip', Accept: 'text/html,image/webp,*/*' } }, response => {
+    const req = transport.get(url, { headers: { 'Accept-Encoding': 'gzip', Accept: 'text/html,image/webp,*/*', ...extraHeaders } }, response => {
       const headersMs = performance.now() - start;
       const chunks = [];
       response.on('data', chunk => chunks.push(chunk));
@@ -87,6 +87,38 @@ const robots = await request('/robots.txt');
 const sitemap = await request('/sitemap.xml');
 assert.equal(sitemap.status, 200);
 assert.ok(sitemap.body.includes('/it/products/' + catalog[0].slug));
+// A document GET can succeed while a client-side link fails. Check the actual
+// App Router response contract for logo and navigation transitions as well.
+const englishShopTree = ['', { children: ['(english)', { children: ['shop', { children: ['__PAGE__', {}] }] }] }, null, null, true];
+const italianShopTree = ['', { children: [['locale', 'it', 'd'], { children: ['shop', { children: ['__PAGE__', {}] }] }] }, null, null, true];
+const navigation = [];
+for (const [from, to, tree] of [
+  ['/shop', '/', englishShopTree],
+  ['/shop', '/contact', englishShopTree],
+  ['/shop', '/products/' + catalog[0].slug, englishShopTree],
+  ['/it/shop', '/it', italianShopTree],
+  ['/it/shop', '/it/contact', italianShopTree],
+  ['/it/shop', '/it/products/' + catalog[0].slug, italianShopTree],
+]) {
+  const headers = {
+    RSC: '1', Accept: 'text/x-component',
+    'Next-Router-State-Tree': encodeURIComponent(JSON.stringify(tree)),
+    'Next-Url': from,
+  };
+  let response = await request(to + '?_rsc=studio-navigation-check', headers);
+  let redirects = 0;
+  // Next.js may normalize the RSC cache key before returning the payload.
+  while (response.status === 307 && response.headers.location && redirects < 3) {
+    const destination = new URL(response.headers.location, base);
+    assert.equal(destination.origin, base.origin, 'Navigation must stay on this site');
+    response = await request(destination.pathname + destination.search, headers);
+    redirects++;
+  }
+  assert.equal(response.status, 200, `${from} → ${to}: navigation status`);
+  assert.ok(response.headers['content-type']?.includes('text/x-component'), `${from} → ${to}: expected an App Router payload, received ${response.headers['content-type']}`);
+  assert.ok(!response.body.includes('NEXT_HTTP_ERROR_FALLBACK;404'), `${from} → ${to}: unexpected not-found result`);
+  navigation.push({ from, to, status: response.status, redirects, contentType: response.headers['content-type'] });
+}
 const image = catalog[0].images[0];
 const images = [];
 for (const [label, source, width] of [['card-384', image.card.src, 384], ['card-640', image.card.src, 640], ['gallery-640', image.src, 640], ['gallery-1080', image.src, 1080]]) {
@@ -106,6 +138,6 @@ for (const source of new Set(pages.flatMap(page => page.initialScripts))) {
   bundles.push({ source, transferBytes: response.transferBytes, decodedBytes: response.decodedBytes });
 }
 for (const page of pages) page.scriptTransferBytes = page.initialScripts.reduce((sum, source) => sum + bundles.find(bundle => bundle.source === source).transferBytes, 0);
-const report = { date: new Date().toISOString(), base: base.href, node: process.version, activeProducts: catalog.length, sampleMethod: 'one observed first request plus five sequential warmed GETs per page; compressed body bytes, headers latency and full response time; loopback, no browser rendering or network throttling', pages, verifiedProductRoutes, pagination, collections, images, rawZoom: { transferBytes: raw.transferBytes, cacheControl: raw.headers['cache-control'] }, robots: robots.body.trim(), sitemapEntries: [...sitemap.body.matchAll(/<loc>/g)].length, bundles };
+const report = { date: new Date().toISOString(), base: base.href, node: process.version, activeProducts: catalog.length, sampleMethod: 'one observed first request plus five sequential warmed GETs per page; compressed body bytes, headers latency and full response time from this machine; no browser rendering or network throttling', pages, verifiedProductRoutes, pagination, collections, navigation, images, rawZoom: { transferBytes: raw.transferBytes, cacheControl: raw.headers['cache-control'] }, robots: robots.body.trim(), sitemapEntries: [...sitemap.body.matchAll(/<loc>/g)].length, bundles };
 if (reportPath) { await mkdir(path.dirname(path.resolve(reportPath)), { recursive: true }); await writeFile(reportPath, JSON.stringify(report, null, 2)); }
 console.log(JSON.stringify({ ...report, pages: pages.map(page => ({ ...page, initialScripts: undefined })), bundles: undefined }, null, 2));

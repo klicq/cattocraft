@@ -11,16 +11,6 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [{ source: "/en/:path*", destination: "/:path*", permanent: true }];
   },
-  async rewrites() {
-    return [
-      { source: "/", destination: "/en" },
-      { source: "/shop", destination: "/en/shop" },
-      { source: "/how-to-order", destination: "/en/how-to-order" },
-      { source: "/contact", destination: "/en/contact" },
-      { source: "/enquiry", destination: "/en/enquiry" },
-      { source: "/products/:slug", destination: "/en/products/:slug" },
-    ];
-  },
 };
 
 export default nextConfig;

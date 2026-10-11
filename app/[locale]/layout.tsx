@@ -22,7 +22,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   };
 }
 
-export function generateStaticParams() { return [{ locale: "en" }, { locale: "it" }]; }
+// English has concrete public routes; this segment only serves Italian.
+export const dynamicParams = false;
+export function generateStaticParams() { return [{ locale: "it" }]; }
 
 export default async function RootLayout({ children, params }: { children: ReactNode; params: Promise<{ locale: string }> }) {
   const { locale } = await params;
