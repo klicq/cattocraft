@@ -1,0 +1,29 @@
+{
+  "name": "catartsire",
+  "version": "1.0.0",
+  "description": "A handmade art catalog with a resident cat and an enquiry-based cart.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test:cart": "node --experimental-strip-types --test tests/cart.test.mjs",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "check:production": "node scripts/check-production.mjs"
+  },
+  "dependencies": {
+    "next": "~16.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "~16.3.8",
+    "typescript": "^6.0.3"
+  },
+  "private": true
+}

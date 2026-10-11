@@ -1,0 +1,896 @@
+{
+  "piece-001": {
+    "name": "La siesta di Marmellata",
+    "shortDescription": "Un piccolo esperto a righe nell'arte di non fare proprio nulla.",
+    "description": "Marmellata ha riservato il pomeriggio a un impegno importantissimo: non fare assolutamente nulla. Le zampette raccolte, le righe color cannella e un sorriso che quasi non interrompe il sonno portano un raggio di sole sulla mensola o sulla scrivania. La sua sagoma tondeggiante sta bene fra i libri, accanto a una fotografia cara o dove serve rallentare un po'.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto tigrato arancione addormentato, con zampe color crema, righe arancione scuro e coda arrotolata.",
+    "displayNote": "impegnatissimo a non far nulla",
+    "tagLabels": [
+      "Fusa a colori",
+      "Comitato dei pisolini",
+      "Mattine alla marmellata"
+    ]
+  },
+  "piece-011": {
+    "name": "Il piccolo osservatore Onigiri",
+    "shortDescription": "Una sagoma da onigiri, con baffi e idee molto precise.",
+    "description": "Un po' tondo, un po' triangolare e felicissimo di avere le orecchie. Questo micio color crema prende in prestito la sagoma di un onigiri, con una macchia rettangolare scura e un musetto baffuto. È un piccolo compagno decorativo per la scrivania o la mensola della cucina, dove la sua semplicità regala un sorriso inaspettato.",
+    "categoryName": "Statuine",
+    "alt": "Statuina triangolare di un gatto color crema con piccole orecchie, musetto baffuto e una macchia rettangolare nera sul davanti.",
+    "displayNote": "un bocconcino con i baffi",
+    "tagLabels": [
+      "Fusa a colori",
+      "Piccole monellerie",
+      "Bocconcini con i baffi"
+    ]
+  },
+  "piece-012": {
+    "name": "Il ricciolo di Acqua di Rosa",
+    "shortDescription": "Una morbida virgola rosa nel mezzo di una giornata piena.",
+    "description": "Acqua di Rosa ha ripiegato la giornata in un piccolo cerchio comodo. La coda rosa abbraccia il corpo color crema, mentre gli occhi chiusi e il musetto raccolto completano la posa assonnata. Questo piccolo micio acciambellato porta tenerezza sul comodino o sulla mensola, fra colori delicati e oggetti cari che invitano a fermarsi un momento.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto rosa e crema addormentato e acciambellato, con la coda rosa avvolta sul davanti.",
+    "displayNote": "un po' più di dolcezza",
+    "tagLabels": [
+      "Fusa a colori",
+      "Comitato dei pisolini",
+      "Cuoricini al calduccio"
+    ]
+  },
+  "piece-013": {
+    "name": "Violetta e le storie lunghe",
+    "shortDescription": "Una piccola storia lunga, raccontata in lavanda e crema.",
+    "description": "Violetta si raddrizza un po' di più ogni volta che c'è una storia da ascoltare. Il corpo allungato color crema, le orecchie e le macchie lavanda e il minuscolo naso rosa le danno proporzioni deliziosamente insolite. Porta una nota slanciata fra oggetti tondeggianti, oppure un tocco discreto di colore all'estremità della libreria.",
+    "categoryName": "Statuine",
+    "alt": "Statuina slanciata di un gatto color crema con orecchie e macchie laterali lavanda, nasino rosa e coda lavanda ricurva.",
+    "displayNote": "sempre tutta orecchie",
+    "tagLabels": [
+      "Fusa a colori",
+      "Compagnia discreta",
+      "Storie lunghe e zampette piccole"
+    ]
+  },
+  "piece-014": {
+    "name": "Il vassoietto di Sassolino",
+    "shortDescription": "Un vassoietto grigio tranquillo, con un piccolo inquilino al centro.",
+    "description": "Al centro c'è già qualcuno, e sembra proprio contento. Un piccolo muso grigio spunta da questo vassoietto rotondo, trasformando una forma quotidiana in una scenetta. Il bordo ampio e il colore tenue portano una nota decorativa riposante sulla toeletta o sulla mensola, mentre le orecchie appuntite aggiungono la giusta dose di monelleria.",
+    "categoryName": "Vassoietti",
+    "alt": "Vassoietto rotondo e poco profondo di colore grigio, con una testa di gatto in rilievo e orecchie appuntite al centro.",
+    "displayNote": "posto centrale occupato",
+    "tagLabels": [
+      "Fusa a colori",
+      "Custodi dei tesori",
+      "Zampette al centro"
+    ]
+  },
+  "piece-015": {
+    "name": "Il tondo Baffi di Salvia",
+    "shortDescription": "Due zampette e un sorriso, incorniciati di verde salvia.",
+    "description": "Questo musetto ha portato entrambe le zampette per salutare. Il centro color crema, il bordo salvia e i semplici baffi danno al tondo un'aria allegra, quasi da biscottino. Come oggetto decorativo, introduce un cerchio piacevole fra forme più alte, con colori morbidi e dettagli in rilievo che invitano a guardarlo da vicino.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Disco decorativo circolare color crema con bordo verde salvia, muso di gatto, orecchie triangolari e due impronte di zampa.",
+    "displayNote": "ciao, piccole zampette",
+    "tagLabels": [
+      "Fusa a colori",
+      "Compagnia discreta",
+      "Un giro di baffi"
+    ]
+  },
+  "piece-016": {
+    "name": "Salvia sogna a occhi chiusi",
+    "shortDescription": "Un piccolo custode senza fretta, nel più delicato verde salvia.",
+    "description": "Salvia ha chiuso gli occhi per riflettere seriamente sul pomeriggio. Questa forma tondeggiante unisce un musetto sereno a una piccola apertura sul dorso, raffigurata con un bastoncino sottile. La sagoma bassa e il verde delicato portano una presenza decorativa tranquilla in un angolo raccolto, dove persino i baffi sembrano prendersela comoda.",
+    "categoryName": "Supporti",
+    "alt": "Supporto a forma di gatto sdraiato color salvia chiaro, con occhi chiusi e un bastoncino sottile inserito in un'apertura sul dorso.",
+    "displayNote": "un pomeriggio più tranquillo",
+    "tagLabels": [
+      "Fusa a colori",
+      "Comitato dei pisolini",
+      "Il pomeriggio senza fretta"
+    ]
+  },
+  "piece-017": {
+    "name": "Il panorama segreto di Macchiolina",
+    "shortDescription": "Una coda impeccabile e pensieri rigorosamente riservati.",
+    "description": "Macchiolina sta guardando qualcosa di meraviglioso e ha dimenticato del tutto la stanza alle sue spalle. Visto da dietro, questo micio seduto unisce macchie arancioni e marroni a una sagoma color crema. La coda alzata e ricurva aggiunge una nota giocosa: una bella compagnia per una mensola di libri, cartoline e piccole scoperte.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto calico color crema visto da dietro, con macchie arancioni e marroni e coda arancione alzata e ricurva.",
+    "displayNote": "un segreto da custodire",
+    "tagLabels": [
+      "Fusa a colori",
+      "Piccoli curiosi",
+      "Sogni a macchioline"
+    ]
+  },
+  "piece-018": {
+    "name": "Il pancino di Mirtillo",
+    "shortDescription": "Un amico azzurro tutto tondo, particolarmente fiero del suo pancino.",
+    "description": "Mirtillo è convinto che un bell'abbraccio cominci da un pancino generoso. Le zampette azzurre si incurvano intorno alla pancia color crema; orecchie dritte e un piccolo sorriso completano la forma rotonda. Questo personaggio allegro diventa un dolce punto d'attenzione fra colori pastello, con campiture semplici che si accostano bene a libri, fiori e piccoli oggetti quotidiani.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Oggetto tondeggiante a forma di gatto azzurro con pancia color crema, piccole zampe anteriori e una giunzione orizzontale visibile al centro.",
+    "displayNote": "tondo e rassicurante",
+    "tagLabels": [
+      "Fusa a colori",
+      "Custodi dei tesori",
+      "Pancini che rassicurano"
+    ]
+  },
+  "piece-019": {
+    "name": "La stiracchiata del weekend lungo",
+    "shortDescription": "Una magnifica stiracchiata per una mattina molto lenta.",
+    "description": "Prima una stiracchiata, poi magari un'altra. Con le zampe anteriori protese e la coda verde petrolio arricciata in alto, questo compagno crema e blu racconta il piccolo spettacolo di un risveglio felino senza fretta. La sagoma lunga e vivace anima una mensola o un tavolino, mentre gli occhi chiusi suggeriscono che la giornata può ancora aspettare.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto color crema con macchie verde petrolio, zampe anteriori allungate in avanti e coda ricurva sollevata.",
+    "displayNote": "prima ci si stira, poi si decide",
+    "tagLabels": [
+      "Fusa a colori",
+      "Club degli stiracchiamenti",
+      "Mattine da weekend lungo"
+    ]
+  },
+  "piece-020": {
+    "name": "Il faraone del raggio di sole",
+    "shortDescription": "Sovrano del posticino più caldo della stanza.",
+    "description": "Il raggio di sole ha un sovrano, e il sovrano sembra molto soddisfatto. Questo gatto a riposo indossa un copricapo a righe d'ispirazione egizia, con un piccolo cobra sopra il musetto gentile. I toni caldi della sabbia lo rendono una presenza decorativa accogliente, mentre la sagoma cerimoniosa trasforma un normale pisolino pomeridiano in un piccolo evento regale.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto sdraiato color crema sabbia, con copricapo a righe d'ispirazione egizia e piccolo ornamento a cobra.",
+    "displayNote": "regalmente fuori servizio",
+    "tagLabels": [
+      "Fusa a colori",
+      "Piccoli curiosi",
+      "Sovrani del raggio di sole"
+    ]
+  },
+  "piece-021": {
+    "name": "I piccoli tesori di Calendula",
+    "shortDescription": "Una custode dagli occhi vispi, con una coda per i tesori.",
+    "description": "Calendula ha un debole per le cose luccicanti e una coda piuttosto utile. Raffigurato con anelli infilati sulla coda alzata, questo micio arancione e crema porta un'aria giocosa sulla toeletta. Il musetto attento e le macchie lo rendono piacevole da osservare fra i piccoli rituali quotidiani, con la sicurezza di chi ha ricevuto un incarico importantissimo.",
+    "categoryName": "Supporti",
+    "alt": "Portaanelli a forma di gatto arancione e crema in piedi, con anelli color oro infilati sulla coda alzata.",
+    "displayNote": "custode dei tesori in servizio",
+    "tagLabels": [
+      "Fusa a colori",
+      "Custodi dei tesori",
+      "Code per piccoli tesori"
+    ]
+  },
+  "piece-022": {
+    "name": "Il vassoietto Zampette di Benvenuto",
+    "shortDescription": "Un sorriso delicato alla fine della giornata.",
+    "description": "Due zampette sul bordo e un benvenuto caloroso. Questo vassoietto color crema si incurva sul retro in un musetto sorridente, dando alla forma aperta e poco profonda un carattere particolarmente amichevole. Aggiunge una nota decorativa gentile al comodino o alla toeletta, portando linee morbide e un po' di compagnia nei luoghi in cui torni ogni giorno.",
+    "categoryName": "Vassoietti",
+    "alt": "Vassoietto poco profondo color crema a forma di gatto, con orecchie appuntite, musetto sorridente sul bordo posteriore e due zampe sul bordo anteriore.",
+    "displayNote": "un posto dove fermarsi",
+    "tagLabels": [
+      "Fusa a colori",
+      "Custodi dei tesori",
+      "Un dolce bentornato a casa"
+    ]
+  },
+  "piece-023": {
+    "name": "L'abbraccio delle Campanelle",
+    "shortDescription": "Quattro musetti, felici di stare tutti vicini.",
+    "description": "In questo abbraccio c'è sempre posto per qualcuno in più. Quattro mici azzurri e crema si raccolgono vicini: il più alto veglia sul retro, il più piccolo si sistema davanti. Le diverse altezze compongono una tenera scenetta per la mensola di famiglia o un angolo preferito, con la buffa intesa di chi vuole lo stesso posto comodo.",
+    "categoryName": "Statuine",
+    "alt": "Gruppo di quattro gatti azzurri e crema stretti insieme, con il più grande dietro e il più piccolo davanti.",
+    "displayNote": "meglio tutti insieme",
+    "tagLabels": [
+      "Fusa a colori",
+      "Coccole in compagnia",
+      "Tutta la piccola famiglia"
+    ]
+  },
+  "piece-024": {
+    "name": "Una nuvola chiamata Gatto",
+    "shortDescription": "Una nuvoletta di passaggio che ha deciso di restare.",
+    "description": "Questa nuvola ha le orecchie e, a quanto pare, nessun impegno urgente. La sagoma azzurra, gli occhi chiusi e i fianchi morbidi trasformano un semplice micio addormentato in una fantasticheria. La sua forma tranquilla si trova bene fra pezzi più ricchi di dettagli, offrendo una pausa sulla mensola e ricordando che non serve riempire ogni momento.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto addormentato a forma di nuvola azzurra, con orecchie appuntite, occhi chiusi e fianchi arrotondati.",
+    "displayNote": "previsioni: un pisolino",
+    "tagLabels": [
+      "Fusa a colori",
+      "Comitato dei pisolini",
+      "Compagnia soffice come una nuvola"
+    ]
+  },
+  "piece-025": {
+    "name": "Pip, il bravissimo ascoltatore",
+    "shortDescription": "Orecchie in più per tutte le tue importantissime storie.",
+    "description": "Pip ha sentito che forse c'era una storia ed è arrivato preparatissimo. Grandi orecchie rosa all'interno sovrastano un musetto grigio dalle linee leggermente angolari, bilanciato da petto e zampette color crema. Questo attento compagno dà carattere alla scrivania o alla libreria, con un'espressione che fa sembrare degno d'ascolto ogni piccolo dettaglio della tua giornata.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto grigio seduto con orecchie angolari molto grandi e rosa all'interno, occhi neri, petto e zampe anteriori color crema.",
+    "displayNote": "in ascolto, attentissimo",
+    "tagLabels": [
+      "Fusa a colori",
+      "Piccoli curiosi",
+      "Orecchie extra per le storie"
+    ]
+  },
+  "piece-026": {
+    "name": "Cucù dietro il muretto",
+    "shortDescription": "Due zampette piccole e una curiosità grandissima.",
+    "description": "Qualcuno vorrebbe proprio sapere cosa c'è dalla tua parte. Un musetto grigio e due zampette spuntano sopra un ampio blocco rettangolare, creando un piacevole contrasto fra linee dritte e orecchie curiose. Il colore discreto e l'aspetto punteggiato danno a questo oggetto decorativo una presenza tranquilla, con quel tanto di monelleria che basta a strapparti un sorriso.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Testa di gatto grigio e due zampe che spuntano sopra un blocco rettangolare grigio dall'aspetto punteggiato.",
+    "displayNote": "passavo a vedere come stai",
+    "tagLabels": [
+      "Fusa a colori",
+      "Piccoli curiosi",
+      "Saluti da sopra il muretto"
+    ]
+  },
+  "piece-027": {
+    "name": "Il pomeriggio libero di Gomitolo",
+    "shortDescription": "L'assistente ai ferri ha finito il turno in anticipo.",
+    "description": "Gomitolo stava aiutando, finché la lana non è diventata un cuscino. Un gatto crema e marrone si accoccola intorno a un gomitolo rosa, appoggiando il musetto assonnato sui fili scolpiti. Questa scenetta sta bene accanto ai libri creativi o su una mensola da lettura, dove forme rotonde e colori caldi raccontano di progetti felicemente rimandati.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto crema e marrone addormentato intorno a un gomitolo rosa antico, con il muso appoggiato sui fili.",
+    "displayNote": "un altro ferro, domani",
+    "tagLabels": [
+      "Fusa a colori",
+      "Comitato dei pisolini",
+      "Aiutanti ai ferri fuori servizio"
+    ]
+  },
+  "piece-028": {
+    "name": "Miele, il piccolo casalingo",
+    "shortDescription": "Un casalingo dorato con una storia piena di curve.",
+    "description": "Miele sa che il posto più bello è spesso proprio qui. Segni simili a venature attraversano questo gatto dorato, seguendo il corpo seduto e la coda arricciata con un delicato senso di movimento. I colori naturali portano calore fra libri, foglie verdi e oggetti neutri, mentre il piccolo musetto rende l'insieme una compagnia discreta.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto seduto marrone dorato, con segni fluidi simili alle venature del legno, piccolo musetto baffuto e coda ricurva.",
+    "displayNote": "felice proprio qui",
+    "tagLabels": [
+      "Fusa a colori",
+      "Compagnia discreta",
+      "Piccole storie serpeggianti"
+    ]
+  },
+  "piece-029": {
+    "name": "Trifoglio custodisce un cuore",
+    "shortDescription": "Un po' d'affetto, indossato proprio dove puoi vederlo.",
+    "description": "Trifoglio non è molto bravo a tenere segreto l'affetto. Cuori color crema illuminano il corpo verde intenso, mentre un cuore verde risalta sul petto chiaro. Questo compagno seduto porta una nota personale sulla mensola o sulla scrivania, con una coda ordinatamente raccolta e un'espressione che sembra una piccola dichiarazione d'affetto quotidiana.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde intenso seduto, con muso, petto e zampe color crema, cuori crema sui fianchi e un cuore verde sul petto.",
+    "displayNote": "un po' d'amore, ogni giorno",
+    "tagLabels": [
+      "Fusa a colori",
+      "Compagnia discreta",
+      "Cuori portati con orgoglio"
+    ]
+  },
+  "piece-030": {
+    "name": "Macaron Fragola e Baffi",
+    "shortDescription": "Un sogno di pasticceria rosa, con due orecchie in più.",
+    "description": "La pasticceria ha un nuovo cliente abituale, molto baffuto. Questo compagno rosa a forma di macaron sfoggia un musetto vivace sopra due fasce arricciate, portando nella collezione una golosa fantasia decorativa. Il profilo rotondo rallegra una mensola accanto ai libri o ai ricordi preferiti, mentre le orecchie appuntite danno al sogno un'inconfondibile aria felina.",
+    "categoryName": "Statuine",
+    "alt": "Ornamento rosa a forma di macaron e gatto, con orecchie dritte, occhi aperti, baffi e due fasce arricciate e lavorate.",
+    "displayNote": "zampette in pasticceria",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Zampette da pasticceria"
+    ]
+  },
+  "piece-031": {
+    "name": "Petalino il giardiniere",
+    "shortDescription": "Vestito per una festa in giardino che dura tutto il pomeriggio.",
+    "description": "Petalino ha preso l'invito a vestirsi di fiori piuttosto alla lettera. Strati di corolle scolpite circondano un musetto tranquillo verde petrolio, ricoprendo il corpo seduto e la coda ricurva di un giardino fittissimo. Questo compagno decorativo invita a guardare da vicino e porta un ricco ritmo botanico su una mensola di oggetti semplici, ben distanziati.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto seduto verde petrolio ricoperto di motivi sovrapposti di fiori e foglie, con musetto visibile e coda ricurva.",
+    "displayNote": "è venuto anche il giardino",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Zampette coperte di petali"
+    ]
+  },
+  "piece-032": {
+    "name": "Mezzanotte nella cornice delle meraviglie",
+    "shortDescription": "Una testolina inclinata, una bella cornice, un'intera storia.",
+    "description": "Mezzanotte ha trovato il posto perfetto per un ritratto e sta provando la giusta inclinazione della testa. Un gatto blu intenso siede in una cornice elaborata che ricorda uno specchio, con un fiore sopra e un cuore sotto. La composizione aperta dà alla scenetta un'aria da fiaba, pronta a portare un piccolo teatro sulla mensola o sulla toeletta.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Gatto blu intenso seduto con la testa inclinata dentro una cornice ovale decorata, con motivo floreale in alto, piedini curvi e cuore alla base.",
+    "displayNote": "un ritratto della curiosità",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Finestre da fiaba"
+    ]
+  },
+  "piece-033": {
+    "name": "Un tè per Lillà",
+    "shortDescription": "Il posto migliore all'ora del tè è, a quanto pare, nella tazza.",
+    "description": "Lillà è arrivato presto e ha scelto un posto decisamente insolito. Due zampette si appoggiano sul bordo di una tazza decorata a petali, mentre un musetto sorridente fa capolino. Tutta color lavanda, questa scenetta porta una pausa fantasiosa nell'angolo lettura o in cucina, con dettagli curvi che sembrano un piccolo invito a fermarsi ancora.",
+    "categoryName": "Statuine",
+    "alt": "Gatto color lavanda che spunta da una tazza dello stesso colore, con manico curvo, rilievi simili a petali e zampe sul bordo.",
+    "displayNote": "una tazza comodissima",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Inquilini delle tazze"
+    ]
+  },
+  "piece-034": {
+    "name": "Sua Piccolezza del Divano",
+    "shortDescription": "Un sovrano minuscolo con richieste di riposo molto ragionevoli.",
+    "description": "Sua Piccolezza ha presentato una richiesta regale: un pomeriggio comodo. Una corona azzurra siede fra le orecchie, mentre guance generose e due zampette danno a questo monarca rotondo un'aria molto alla mano. Sistemalo fra gli oggetti preferiti per un tocco giocoso di cerimonia, senza tutte le formalità che ci si aspetterebbe a corte.",
+    "categoryName": "Statuine",
+    "alt": "Statuina tondeggiante di un gatto azzurro con corona a punte, zampe anteriori unite e coda ricurva di lato.",
+    "displayNote": "cuscini regali, per favore",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "La nobiltà dei cuscini"
+    ]
+  },
+  "piece-035": {
+    "name": "Coccole di polvere di stelle",
+    "shortDescription": "Un piccolo micio lavanda che indossa il cielo della sera.",
+    "description": "Qualcuno ha raccolto desideri e li ha portati a casa addosso. Stelle, cuori e piccole forme in rilievo punteggiano questo gatto lavanda, trasformando la posa raccolta in una scenetta celeste. La superficie offre tanti dettagli da scoprire sul comodino, mentre guance rotonde e zampette ferme fanno la compagnia gentile di un amico che resta sveglio ancora un poco.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto lavanda a riposo, ricoperta di stelle, cuori e piccole forme in rilievo, con le zampe anteriori raccolte.",
+    "displayNote": "qualche desiderio addosso",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Costellazioni tascabili"
+    ]
+  },
+  "piece-036": {
+    "name": "Basilico in fiocchetto",
+    "shortDescription": "Tutto elegante, seduto composto e pieno di piccoli progetti.",
+    "description": "Basilico ha messo il fiocco migliore per una giornata perfettamente normale. Un nastro generoso incornicia il musetto di questo gatto verde chiaro, con le estremità ordinate sopra quattro zampette. La posa composta e il fiocco esagerato portano sulla mensola un piacevole equilibrio fra eleganza e gioco, facendo sembrare un'occasione speciale anche l'angolo più tranquillo.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde chiaro seduto con un grande fiocco dello stesso colore, lunghe estremità del nastro e coda ricurva di lato.",
+    "displayNote": "elegante anche di martedì",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Buone maniere in fiocchetto"
+    ]
+  },
+  "piece-037": {
+    "name": "Il saluto di Corallo",
+    "shortDescription": "Un piccolo ciao tutto tondo, con i baffi ai lati.",
+    "description": "Una presentazione completa, affidata a due occhi e un sorriso. Questo disco corallo sceglie la semplicità: un musetto baffuto in rilievo sotto una piccola apertura vicino al bordo superiore. Il colore caldo e la forma circolare portano una nota grafica allegra fra gli oggetti decorativi, soprattutto accanto a sagome discrete che lasciano spazio a questa espressione amichevole.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Ornamento circolare rosa corallo con muso di gatto e baffi in rilievo e un piccolo foro rotondo vicino al bordo superiore.",
+    "displayNote": "un giro di saluti",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Saluti con i baffi"
+    ]
+  },
+  "piece-038": {
+    "name": "Il segreto di Clementina",
+    "shortDescription": "Un piccolo mistero dorato con un pancino meravigliosamente rotondo.",
+    "description": "Clementina sembra nascondere un bel segreto dietro quel sorriso. Un musetto felino corona questa forma gialla e tondeggiante, con una sottile giunzione al centro e due orecchie che interrompono la curva. Come accento decorativo porta sulla mensola una pausa luminosa, fatta di forme semplici e del fascino discreto di chi sa qualcosa che tu ancora non sai.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Oggetto rotondo giallo dorato a forma di gatto, con orecchie appuntite, musetto sorridente e giunzione orizzontale al centro.",
+    "displayNote": "un raggio di sole in segreto",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Custodi dei tesori",
+      "Segreti di sole"
+    ]
+  },
+  "piece-039": {
+    "name": "La duchessa della toeletta",
+    "shortDescription": "Una piccola cortigiana color crema, dalle maniere impeccabili.",
+    "description": "La Duchessa considera la buona compagnia una necessità regale. Una tiara ricca di dettagli siede sopra un musetto semplice, mentre zampette ordinate e coda ricurva completano la composta sagoma color crema. Questa compagna decorativa porta una cerimoniosità delicata sulla toeletta o su una mensola speciale, perfettamente a suo agio fra ricordi che hanno una storia da raccontare.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto color crema seduto con una piccola tiara decorata, zampe anteriori ordinate e coda ricurva verso l'alto su un lato.",
+    "displayNote": "un po' di nobiltà quotidiana",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Il club delle piccole tiare"
+    ]
+  },
+  "piece-040": {
+    "name": "Mochi si prende un momento",
+    "shortDescription": "Una pausa color crema con due piccole orecchie appuntite.",
+    "description": "Mochi ha pochissimi programmi e la cosa gli piace molto. Il corpo color crema, dolcemente triangolare, termina in piccole orecchie e un musetto baffuto, lasciando tutto il resto deliziosamente semplice. La sua sagoma tranquilla fa compagnia a una scrivania piena o a una libreria vissuta, aggiungendo calore senza chiedere alla stanza di cambiare posto a ogni cosa.",
+    "categoryName": "Statuine",
+    "alt": "Semplice statuina di un gatto color crema con corpo arrotondato e leggermente triangolare, orecchie appuntite e piccolo musetto baffuto.",
+    "displayNote": "meno fretta, più Mochi",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Piccole pause delicate"
+    ]
+  },
+  "piece-041": {
+    "name": "Un amico dal profilo ramato",
+    "shortDescription": "Una sagoma familiare, disegnata con un riflesso caldo.",
+    "description": "A volte, per essere una buona compagnia basta un contorno. Una curva color rame disegna orecchie appuntite, corpo seduto e coda alzata, lasciando un centro aperto che dà leggerezza all'insieme. La superficie dall'aspetto riflettente illumina una composizione decorativa, soprattutto fra libri e forme morbide che fanno risaltare la pulizia del suo profilo.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Contorno aperto color rame di un gatto seduto, con orecchie appuntite, corpo curvo e coda arricciata verso l'alto.",
+    "displayNote": "un piccolo profilo luminoso",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Baffi in silhouette"
+    ]
+  },
+  "piece-042": {
+    "name": "Il vassoietto Mattina di Nebbia",
+    "shortDescription": "Un momento grigio nebbia, con un piccolo musetto al centro.",
+    "description": "Nebbia ha trovato il centro delle cose e sembra felice di restarci. Una semplice testa di gatto emerge da questo vassoietto grigio poco profondo, con piccoli baffi e orecchie appuntite che danno carattere alle curve ampie. Il colore discreto accompagna facilmente un angolo del comodino, introducendo una pausa sorridente fra gli oggetti che ritrovi ogni giorno.",
+    "categoryName": "Vassoietti",
+    "alt": "Vassoietto circolare grigio poco profondo con testa di gatto in rilievo al centro, piccoli occhi, baffi e orecchie appuntite.",
+    "displayNote": "tranquillo al centro delle cose",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Custodi dei tesori",
+      "Zampette al centro"
+    ]
+  },
+  "piece-043": {
+    "name": "Timo, è ora del pisolino",
+    "shortDescription": "Un piccolo permesso verde chiaro per prendersela comoda.",
+    "description": "Timo ha deciso, dopo attenta riflessione, di fare pochissimo. Occhi chiusi, zampe anteriori raccolte e un corpo basso e rotondo danno a questo compagno verde chiaro un'espressione serenissima; sul dorso si vede una piccola apertura. La forma semplice porta tranquillità sulla mensola o nell'angolo lettura, dove c'è sempre spazio per un altro pomeriggio senza fretta.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Oggetto color salvia chiaro a forma di gatto a riposo, con occhi chiusi, zampe raccolte e una piccola apertura rotonda sul dorso.",
+    "displayNote": "il pomeriggio può aspettare",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "Il pomeriggio senza fretta"
+    ]
+  },
+  "piece-044": {
+    "name": "Il piccolo segreto di Campanella",
+    "shortDescription": "Una forma azzurra gentile con una storia a metà.",
+    "description": "Campanella tiene qualcosa per sé, e l'espressione lascia trapelare pochissimo. La sagoma azzurra si assottiglia verso l'alto e si arrotonda alla base, con una fine giunzione che gira sotto il musetto baffuto. Questo personaggio decorativo discreto porta calma sulla mensola, accostando piccole orecchie appuntite alle curve più semplici e morbide.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Oggetto azzurro a forma di gatto con parte superiore affusolata, base arrotondata, piccolo muso e giunzione orizzontale sotto il viso.",
+    "displayNote": "un piccolo sorriso segreto",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Custodi dei tesori",
+      "Sogni a cielo azzurro"
+    ]
+  },
+  "piece-045": {
+    "name": "Il reggente color terracotta",
+    "shortDescription": "Un piccolo sovrano che vede il mondo con grande calore.",
+    "description": "Il Reggente ha dichiarato questo angolo ufficialmente comodo. Un copricapo a righe d'ispirazione egizia incornicia un musetto sorridente, tutto in una calda tonalità terracotta, con un cobra raccolto sulla sommità. La forma compatta e tondeggiante anima libri e ricordi con una sagoma solenne in miniatura, portando un po' di regalità nei luoghi più quotidiani e accoglienti.",
+    "categoryName": "Statuine",
+    "alt": "Statuina tondeggiante di un gatto color terracotta con copricapo a righe d'ispirazione egizia e piccolo motivo a cobra sulla sommità.",
+    "displayNote": "questo angolo è un regno",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Sovrani del raggio di sole"
+    ]
+  },
+  "piece-046": {
+    "name": "Il vassoietto Dolce Benvenuto",
+    "shortDescription": "Due zampette sul bordo e un sorriso che resta.",
+    "description": "Per accogliere bene bastano un sorriso e due zampette. Questo vassoietto color crema si incurva sul retro in un muso di gatto, con zampe scolpite ai lati del bordo anteriore. La forma aperta e rotonda porta una nota decorativa morbida sulla toeletta, rendendo un angolo familiare ancora più piacevole e pieno di compagnia.",
+    "categoryName": "Vassoietti",
+    "alt": "Vassoietto color crema poco profondo, con muso e orecchie di gatto sul bordo posteriore e due zampe scolpite agli angoli anteriori.",
+    "displayNote": "che bello averti qui",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Custodi dei tesori",
+      "Un dolce bentornato a casa"
+    ]
+  },
+  "piece-047": {
+    "name": "Il giorno libero di Nimbus",
+    "shortDescription": "Le previsioni di oggi annunciano una nuvola molto tranquilla.",
+    "description": "Nimbus è approdato nel posto più bello e ha deciso di fermarsi. Un corpo basso come una nuvola, piccole orecchie e occhi dolcemente chiusi trasformano questo dormiglione azzurro in un bollettino del buon riposo. Il profilo delicato fa compagnia sulla scrivania o sul comodino, soprattutto fra oggetti che meritano un po' di spazio per farsi apprezzare.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto azzurro addormentato, con corpo basso e arrotondato simile a una nuvola, orecchie appuntite e occhi chiusi.",
+    "displayNote": "nessun impegno all'orizzonte",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "Compagnia soffice come una nuvola"
+    ]
+  },
+  "piece-048": {
+    "name": "Il vicino tranquillo",
+    "shortDescription": "Fa capolino solo per sapere come va la giornata.",
+    "description": "Il Vicino tranquillo passa soltanto per un piccolo saluto. Un musetto baffuto e due zampette ordinate spuntano sopra un blocco rettangolare grigio, regalando una sorpresa amichevole alle linee dritte. Questo oggetto decorativo discreto sta bene fra forme pulite e colori tenui, con un'espressione particolarmente interessata a tutto quello che potrebbe succedere subito dopo.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Testa di gatto grigio e due zampe rotonde che spuntano sopra un semplice blocco rettangolare grigio.",
+    "displayNote": "solo un piccolo saluto",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Saluti da sopra il muretto"
+    ]
+  },
+  "piece-049": {
+    "name": "Acero prende la strada lunga",
+    "shortDescription": "Il percorso panoramico, curva dopo curva.",
+    "description": "Acero non mette mai fretta a una bella storia, soprattutto se ha qualche svolta. Linee simili a venature percorrono questo gatto color miele, dal musetto rotondo alle zampe sedute e alla coda arricciata. La superficie movimentata offre molto da esplorare nella sagoma semplice, portando un ritmo caldo fra libri, dettagli verdi e oggetti amati.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto seduto marrone miele con linee fluide simili a venature, piccolo musetto sorridente e coda ricurva.",
+    "displayNote": "per la strada panoramica",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Piccole storie serpeggianti"
+    ]
+  },
+  "piece-050": {
+    "name": "Il pisolino domenicale di Avena",
+    "shortDescription": "Un intero pomeriggio di domenica raccolto in quattro zampette.",
+    "description": "Avena ha liberato l'agenda per un pomeriggio senza grandi ambizioni. Sottili segni simili al pelo ricoprono il corpo color crema, seguendo la coda raccolta e le pieghe morbide intorno al musetto assonnato. Questo compagno tranquillo porta una pausa calda sulla mensola, con tanti dettagli discreti da scoprire quando rallenti insieme a lui.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto color crema addormentato, con sottili segni simili al pelo, zampe anteriori raccolte, occhi chiusi e coda avvolta al corpo.",
+    "displayNote": "la domenica è uno stato d'animo",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "La società del sole domenicale"
+    ]
+  },
+  "piece-051": {
+    "name": "Cipria fra un sogno e l'altro",
+    "shortDescription": "Un piccolo ricciolo rosa, fra un sogno e quello successivo.",
+    "description": "Cipria ha trovato uno spazietto fra i sogni e ci si è acciambellata. Una coda rosa liscia si ripiega intorno al corpo addormentato, incontrando il musetto raccolto e gli occhi dolcemente chiusi. La sagoma semplice porta tenerezza sul comodino o in un angolo tranquillo, ricordando piano di lasciare un po' di spazio ai momenti gentili.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto rosa acciambellato nel sonno, con il muso abbassato e la coda avvolta sul davanti.",
+    "displayNote": "fra piccoli sogni",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "Cuoricini al calduccio"
+    ]
+  },
+  "piece-052": {
+    "name": "Macaron dopo la chiusura",
+    "shortDescription": "La pasticceria è chiusa; i sogni sono appena cominciati.",
+    "description": "L'ultimo cliente è andato via e questo macaron è ufficialmente fuori servizio. Gli occhi chiusi riposano sopra una boccuccia sorridente, mentre fasce lavorate e una forma rosa rotonda continuano il sogno di pasticceria. Un compagno decorativo giocoso per mensola o scrivania, con la soddisfazione tranquilla di aver messo a letto anche i pensieri più indaffarati.",
+    "categoryName": "Statuine",
+    "alt": "Ornamento rosa a forma di macaron e gatto, con occhi chiusi, piccole orecchie appuntite e fasce lavorate intorno al centro arrotondato.",
+    "displayNote": "sogni d'oro a negozio chiuso",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "La pasticceria assonnata"
+    ]
+  },
+  "piece-053": {
+    "name": "Il fortino di coperte di Prugna",
+    "shortDescription": "Un rifugio lavanda con un inquilino molto soddisfatto.",
+    "description": "Prugna ha costruito un fortino di coperte e riceve soltanto visitatori silenziosissimi. Ampie pieghe lavanda avvolgono un piccolo musetto baffuto, creando un rifugio che suggerisce morbidezza e un piacevole senso di protezione. Il fagottino rotondo porta intimità sulla mensola dei libri, soprattutto accanto alle storie a cui torni quando il pomeriggio decide di rallentare.",
+    "categoryName": "Statuine",
+    "alt": "Musetto di gatto color lavanda raccolto in un fagotto tondeggiante di pieghe dello stesso colore, simili a una coperta avvolta intorno a testa e corpo.",
+    "displayNote": "benvenuti, visitatori silenziosi",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "Soci del fortino di coperte"
+    ]
+  },
+  "piece-054": {
+    "name": "La lunga storia di Lillà",
+    "shortDescription": "Una storia molto lunga raccontata da un gatto molto silenzioso.",
+    "description": "Lillà avrebbe molto da dire, ma aspetta un pomeriggio abbastanza soleggiato. Il corpo lungo e morbido si accompagna a orecchie in ascolto, un musetto essenziale e una coda ordinatamente arricciata di lato. La sagoma delicata porta una pausa giocosa sulla libreria, in un angolo della scrivania o fra i piccoli oggetti a cui sei affezionato.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto lilla con corpo alto e arrotondato, piccoli tratti del viso, orecchie appuntite e coda ricurva di lato.",
+    "displayNote": "una piccola storia lunga",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Code che raccontano",
+      "Grazia in miniatura"
+    ]
+  },
+  "piece-055": {
+    "name": "Un sorso di Lillà",
+    "shortDescription": "Qualcuno di piccolo ha scelto il posto più bello all'ora del tè.",
+    "description": "Il tè è in ritardo: è arrivato un visitatore minuscolo dalle maniere impeccabili. Un gatto dagli occhi vispi spunta da questa scultura lilla a forma di tazza, con entrambe le zampe sul bordo e le orecchie attente. Il manico generoso e la tazza rotonda creano una sagoma da fiaba, pronta a inscenare una piccola merenda sulla mensola o sul tavolo.",
+    "categoryName": "Statuine",
+    "alt": "Gatto lilla che spunta da una scultura a forma di tazza dello stesso colore, con entrambe le zampe sul bordo e un grande manico curvo.",
+    "displayNote": "il posto migliore all'ora del tè",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Clandestini nelle tazze",
+      "Zampette oltre il bordo"
+    ]
+  },
+  "piece-056": {
+    "name": "Felce, l'amico dalle mille pieghe",
+    "shortDescription": "Un boschetto di angoli, con orecchie e postura impeccabile.",
+    "description": "Felce pensa che una bella posa seduta meriti qualche ambizione architettonica. Piani angolari disegnano il muso attento, le orecchie dritte, le zampe anteriori sottili e la coda raccolta alla base di questo compagno verde salvia. La luce percorre le sue sfaccettature durante il giorno, dando a una mensola tranquilla un piccolo ritmo di linee e ombre.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde salvia seduto, con corpo geometrico sfaccettato, orecchie appuntite, zampe anteriori dritte e coda raccolta.",
+    "displayNote": "ripiegato in un sogno",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Sogni fra le pieghe",
+      "Angoli con i baffi"
+    ]
+  },
+  "piece-057": {
+    "name": "Il sigillo Zampette di Salvia",
+    "shortDescription": "Un piccolo saluto rotondo, firmato con due zampette.",
+    "description": "Consideralo il piccolissimo sigillo di approvazione felina del nostro studio. Un musetto, baffi ordinati e due impronte di zampa si raccolgono nel bordo rialzato di un tondo verde salvia. Il contorno circolare lascia spazio all'espressione, offrendo una nota grafica delicata fra gli oggetti preferiti e una piccola ricompensa a chi si avvicina a guardare le zampette.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Tondo decorativo verde salvia con bordo esterno rialzato, muso di gatto, baffi e due impronte di zampa.",
+    "displayNote": "firmato con due zampette",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Firme con i baffi",
+      "Promesse di piccole zampe"
+    ]
+  },
+  "piece-058": {
+    "name": "Il fiocco migliore di Menta",
+    "shortDescription": "Tutto elegante, con un appuntamento piccolissimo.",
+    "description": "Menta si è vestita per l'occasione, anche se l'occasione consiste soltanto nel farsi ammirare. Un grande fiocco si posa sotto il musetto rotondo, con nastri ricadenti, orecchie ordinate e coda raccolta alla base. I dettagli tutti verde menta formano una sagoma delicata, con quel poco di cerimonia che basta a rallegrare scrivania, mensola o angolo preferito.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde menta seduto con un grande fiocco dello stesso colore, estremità del nastro ricadenti e coda arricciata alla base.",
+    "displayNote": "il fiocco migliore, le maniere migliori",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Benvenuti portafortuna",
+      "Buone maniere in fiocchetto",
+      "Eleganti per un saluto"
+    ]
+  },
+  "piece-059": {
+    "name": "Albicocca ti saluta",
+    "shortDescription": "Una zampetta alzata e un sorriso che si sente già a casa.",
+    "description": "Albicocca ti ha visto arrivare e ha subito alzato una zampetta. Occhi chiusi e sorridenti, un piccolo dettaglio a campanella sul collare e piedini raccolti danno a questo gatto portafortuna arancione un benvenuto caloroso. La posa generosa e rotonda sta bene vicino all'ingresso, fra i libri o dovunque la giornata abbia bisogno di un saluto allegro.",
+    "categoryName": "Statuine",
+    "alt": "Statuina arancione di un gatto portafortuna con zampa alzata, occhi chiusi sorridenti, baffi e dettaglio a forma di campanella sul collare.",
+    "displayNote": "un benvenuto a zampa piena",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Benvenuti portafortuna",
+      "Un benvenuto a zampa piena",
+      "Allegria a forma di campanella"
+    ]
+  },
+  "piece-060": {
+    "name": "L'orizzonte segreto di Corallo",
+    "shortDescription": "Una schiena tranquilla e un mondo intero da guardare.",
+    "description": "Corallo sta osservando qualcosa di importantissimo appena fuori dall'inquadratura. Visto da dietro, questo gatto seduto è fatto di orecchie dritte, spalle rotonde e una coda espressiva che si alza con una curva gentile. La semplice sagoma arancione invita a immaginare, facendo compagnia sulla libreria o dove la luce del pomeriggio può seguirne il profilo morbido.",
+    "categoryName": "Statuine",
+    "alt": "Vista posteriore di una statuina di gatto arancione corallo seduto, con orecchie appuntite, corpo arrotondato e coda alzata e ricurva.",
+    "displayNote": "guarda un orizzonte segreto",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Sguardi segreti alla finestra",
+      "Una coda piena di progetti"
+    ]
+  },
+  "piece-061": {
+    "name": "Un piccolo ciao color pesca",
+    "shortDescription": "Un'espressione color pesca, poche pretese e tanto fascino.",
+    "description": "Questo musetto ha perfezionato l'arte di salutare senza fare rumore. Due orecchie interrompono il contorno rotondo corallo, mentre piccoli occhi, un sorriso delicato e baffi ordinati mantengono l'espressione semplicissima. Il pezzo a forma di muso aggiunge una nota grafica giocosa a una collezione di piccoli oggetti, soprattutto quando la luce sfiora i dettagli leggermente in rilievo.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Oggetto decorativo color corallo a forma di muso di gatto, con contorno rotondo, due orecchie appuntite, piccoli occhi, sorriso e baffi.",
+    "displayNote": "un piccolo ciao tutto tondo",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Piccoli saluti rotondi",
+      "Cartoline con i baffi"
+    ]
+  },
+  "piece-062": {
+    "name": "Pesca e i buoni auguri",
+    "shortDescription": "Un benvenuto color pesca dal più piccolo membro di casa.",
+    "description": "Pesca manda un benvenuto tutto personale, una zampetta alzata alla volta. Questo gatto portafortuna unisce una sagoma rotonda color pesca a occhi sorridenti, un dettaglio a campanella sul collare e piccoli segni sulle zampe. La posa amichevole diventa un dolce punto d'attenzione sulla mensola o sulla scrivania, con qualche dettaglio discreto da scoprire da vicino.",
+    "categoryName": "Statuine",
+    "alt": "Statuina color pesca di un gatto portafortuna con una zampa alzata, occhi sorridenti, dettaglio a campanella sul collare e segni ovali sulle zampe.",
+    "displayNote": "piccole zampe, buoni auguri",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Benvenuti portafortuna",
+      "Piccoli buoni auguri",
+      "Il club delle zampe di benvenuto"
+    ]
+  },
+  "piece-063": {
+    "name": "La stiracchiata mattutina di Laguna",
+    "shortDescription": "Una stiracchiata magnifica prima delle piccole avventure del giorno.",
+    "description": "Laguna ha un programma fitto: comincia con una stiracchiata e prosegue con un'altra. Le lunghe zampe anteriori si allungano, il dorso si inarca e la coda si arriccia in alto con fierezza. La sagoma verde petrolio coglie quell'istante felino fra riposo e monelleria, portando una linea fluida sulla mensola e ricordando di prendere la mattina con calma.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde petrolio che si allunga sulle zampe anteriori, con dorso arcuato e coda alzata e ricurva.",
+    "displayNote": "prima, una bella stiracchiata",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Club degli stiracchiamenti",
+      "Lunghe mattine senza fretta",
+      "Ottimismo a coda alta"
+    ]
+  },
+  "piece-064": {
+    "name": "La corona di Campanella",
+    "shortDescription": "Un piccolo sovrano dalle belle orecchie e dalle pretese modestissime.",
+    "description": "Il regno è piccolo, ma la corona si porta con assoluta sicurezza. Questo gatto azzurro ha una posa eretta e paffuta, zampette raccolte sul petto e una corona arrotondata fra le orecchie. L'espressione dolce e un po' solenne porta una cerimonia da fiaba sulla scrivania o sulla mensola, dove anche un pomeriggio normale può sentirsi vagamente regale.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto azzurro in posizione eretta con corona dello stesso colore e piccole zampe anteriori raccolte vicino al petto.",
+    "displayNote": "sovrano del regno minuscolo",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Piccole faccende regali",
+      "Incoronati per il pisolino"
+    ]
+  },
+  "piece-065": {
+    "name": "Mezzanotte fa la guardia",
+    "shortDescription": "Una sagoma lucida che tiene per sé i propri pensieri.",
+    "description": "Mezzanotte preferisce lasciar parlare la sagoma. Visto da dietro, questo gatto nero siede alto con orecchie appuntite, spalle lisce e una coda che attraversa la base. La luce disegna le curve sulla superficie scura, dando a un angolo tranquillo una presenza decisa e invitandoti a immaginare cosa abbia catturato l'attenzione di questo compagno vigile.",
+    "categoryName": "Statuine",
+    "alt": "Vista posteriore di una statuina nera lucida di un gatto seduto, con orecchie appuntite e coda ricurva che attraversa la base.",
+    "displayNote": "un piccolo mistero di mezzanotte",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Sagome al chiaro di luna",
+      "Una coda ben raccolta"
+    ]
+  },
+  "piece-066": {
+    "name": "Ranuncolo fa strada",
+    "shortDescription": "Un esploratore color sole, pronto per un'avventura piccolissima.",
+    "description": "Ranuncolo sta andando da qualche parte, e la coda si è già offerta di fare strada. Questo gatto giallo in piedi ha un musetto delicato, zampe salde e una coda dritta che traccia una linea allegra nell'aria. La forma semplice racchiude tanta personalità, una compagnia luminosa fra i libri, sulla scrivania o accanto ad altri piccoli preferiti dello studio.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto giallo in piedi, con piccolo muso, quattro zampe corte, orecchie appuntite e coda alta e dritta.",
+    "displayNote": "prima la coda, poi i pensieri",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Avventure a coda alta",
+      "Piccoli esploratori del sole"
+    ]
+  },
+  "piece-067": {
+    "name": "Il piccolo amico Limone",
+    "shortDescription": "Un pancino color sole con un sorriso pieno di segreti.",
+    "description": "Questo compagno color limone ha l'espressione di chi custodisce un segreto molto piacevole. La parte superiore a forma di gatto incontra il corpo rotondo lungo una giunzione visibile, mentre orecchie, baffi e due zampette gli danno personalità. La sagoma luminosa e compatta rallegra mensola o scrivania, invitando a osservare ogni semplice dettaglio con un po' più di calma.",
+    "categoryName": "Oggetti decorativi",
+    "alt": "Oggetto decorativo giallo e tondeggiante a forma di gatto, con giunzione visibile sotto il muso, orecchie appuntite, baffi e piccole zampe.",
+    "displayNote": "custodisce un segreto di sole",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Custodi dei tesori",
+      "Piccoli segreti al limone",
+      "Rotondità con i baffi"
+    ]
+  },
+  "piece-068": {
+    "name": "Il tè fiorito di Campanella",
+    "shortDescription": "Un ospite azzurro fra i fiori e le curve della tazza.",
+    "description": "Campanella è arrivata per il tè ed è subito diventata parte della decorazione. Un gatto dagli occhi spalancati spunta da una scultura azzurra a forma di tazza, decorata con fiori e foglie, con le zampette ordinate sul bordo. Il manico curvo e la superficie lavorata compongono una scenetta ricca di dettagli, portando una merenda immaginaria nel tuo angolo preferito.",
+    "categoryName": "Statuine",
+    "alt": "Gatto azzurro che spunta da una scultura a forma di tazza dello stesso colore, con fiori e foglie in rilievo, zampe sul bordo e manico curvo.",
+    "displayNote": "petali, zampette e ora del tè",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Clandestini nelle tazze",
+      "Petali all'ora del tè"
+    ]
+  },
+  "piece-069": {
+    "name": "L'abbraccio delle Nuvolette",
+    "shortDescription": "Quattro musetti, tutti comodamente vicini.",
+    "description": "In questo piccolo gruppo azzurro c'è sempre posto per uno in più. Quattro gatti si stringono insieme: il più alto dietro, due ai lati e il musetto più piccolo sistemato davanti. Forme rotonde e minuscole orecchie creano un ritmo delicato, portando un dolce senso di vicinanza sulla mensola, sulla scrivania o in un angolo del comodino.",
+    "categoryName": "Statuine",
+    "alt": "Gruppo di quattro figure arrotondate di gatti azzurri stretti insieme, con il gatto più piccolo davanti.",
+    "displayNote": "quattro musetti, un abbraccio",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Coccole in compagnia",
+      "Quattro piccole nuvole",
+      "C'è posto per uno in più"
+    ]
+  },
+  "piece-070": {
+    "name": "La sfilata dei petali e delle fusa",
+    "shortDescription": "Un piccolo giardino ha deciso di diventare un gatto.",
+    "description": "Questo compagno di giardino si è vestito con tutti i fiori che ha trovato. Un musetto verde petrolio emerge da un mantello fitto di corolle e foglie, e ogni piccolo petalo offre un motivo per fermarsi. Le orecchie e le zampe semplici restano dolcemente feline, mentre il corpo ricco di rilievi porta una fantasticheria botanica sulla mensola o sul tavolo.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde petrolio seduto, con corpo ricoperto di fiori e foglie dettagliati in rilievo, musetto semplice e zampe anteriori visibili.",
+    "displayNote": "un intero giardino di fusa",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Un mantello di fiori",
+      "La pattuglia dei petali"
+    ]
+  },
+  "piece-071": {
+    "name": "La domenica lenta di Cannella",
+    "shortDescription": "Zampe raccolte, un sorriso tranquillo e nessun altro posto dove andare.",
+    "description": "Cannella ha raggiunto un livello invidiabile di serenità domenicale. Questo gatto arancione raccoglie le zampe sotto il corpo ampio e morbido, con occhi chiusi, linee che suggeriscono il pelo e coda vicina. Il musetto espressivo e i dettagli fluidi raccontano quanto sia bello fare pochissimo: una presenza calda per una mensola che desidera un ritmo più lento.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto arancione a riposo, con occhi chiusi, zampe raccolte, linee simili al pelo sulla superficie e coda ricurva.",
+    "displayNote": "domenica, a qualsiasi ora",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "La società dei pisolini domenicali",
+      "Felicità acciambellata"
+    ]
+  },
+  "piece-072": {
+    "name": "Earl Grey sente proprio tutto",
+    "shortDescription": "Un ascoltatore eccezionale, dalle orecchie eccezionalmente generose.",
+    "description": "Earl Grey ti ha sentito arrivare molto prima che il bollitore ci pensasse. Orecchie enormi e angolari incorniciano un musetto rotondo, mentre corpo snello e zampette allineate mantengono la posa semplicissima. Questo compagno grigio unisce proporzioni curiose e grazia discreta, diventando un delizioso ascoltatore sulla scrivania o in un posto speciale fra i libri.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto grigio seduto, con orecchie angolari molto grandi, piccolo muso rotondo, corpo snello e zampe anteriori ben allineate.",
+    "displayNote": "sempre tutto orecchie",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccoli curiosi",
+      "Ascoltatori bravissimi",
+      "Tutto orecchie per te"
+    ]
+  },
+  "piece-073": {
+    "name": "La torre delle coccole salvia",
+    "shortDescription": "Tre piccoli gatti hanno perfezionato l'arte di stare insieme.",
+    "description": "Il comitato delle coccole si è disposto in una torre affettuosissima. Tre gatti verde salvia riposano uno sopra l'altro: un musetto attento in cima, un altro raccolto al centro e un compagno addormentato come comoda base. Zampette raccolte, code ricurve e sottili linee sulla superficie invitano a osservare da vicino questa giocosa scenetta di vicinanza.",
+    "categoryName": "Statuine",
+    "alt": "Tre figure di gatti verde salvia impilate verticalmente, con due gatti svegli sopra un gatto addormentato e code ricurve lungo i lati.",
+    "displayNote": "in tre si dorme benissimo",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Coccole in compagnia",
+      "Piccole coccole impilate",
+      "Un pisolino per tre"
+    ]
+  },
+  "piece-074": {
+    "name": "La promessa tranquilla di Gomitolo",
+    "shortDescription": "La lana era per un progetto. Il gatto aveva altre idee.",
+    "description": "Gomitolo aveva promesso di sorvegliare la lana e ha preso l'incarico molto comodamente. Un gatto color tortora dorme raccolto intorno a una palla lavorata, con la guancia su una zampa e la coda che segue la curva. Il contrasto fra forme lisce e fili ravvicinati crea una scenetta intima per la mensola, la scrivania o l'angolo dei lavori preferiti.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto color tortora addormentato intorno a un gomitolo lavorato, con la guancia su una zampa e la coda avvolta intorno alla palla.",
+    "displayNote": "sorveglia la lana, piano piano",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Comitato dei pisolini",
+      "Sogni fra i gomitoli",
+      "Un ricciolo e una coccola"
+    ]
+  },
+  "piece-075": {
+    "name": "Albicocca sul bordo",
+    "shortDescription": "Due zampette penzolanti e una prospettiva senza alcuna fretta.",
+    "description": "Albicocca ha trovato un posto in prima fila per guardare il mondo fare tutto il lavoro. Raffigurato disteso su un bordo, questo gatto color pesca lascia penzolare le zampe anteriori mentre il corpo si allunga dietro. Occhietti rotondi, baffi ordinati e dettagli delicati danno alla posa una calma birichina, trasformando un'abitudine felina in una scenetta piena di fascino.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto color pesca disteso su un bordo, con entrambe le zampe anteriori penzolanti e il corpo allungato dietro.",
+    "displayNote": "in prima fila per non far nulla",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Piccole monellerie",
+      "Oziare sul bordo",
+      "Zampette a penzoloni"
+    ]
+  },
+  "piece-076": {
+    "name": "I due cuoricini di Trifoglio",
+    "shortDescription": "Un piccolo amico verde che porta l'affetto in bella vista.",
+    "description": "Trifoglio ha portato due messaggini d'amore e li indossa per tenerli al sicuro. Questo gatto verde intenso seduto unisce un musetto semplice e attento a cuori delineati sul petto e sul fianco, con la coda raccolta alla base. La forma morbida e rotonda porta un affetto discreto sulla scrivania, sulla libreria o fra gli oggetti scelti con cura.",
+    "categoryName": "Statuine",
+    "alt": "Statuina di un gatto verde intenso seduto, con contorni di cuori sul petto e sul fianco, piccoli tratti del muso e coda ricurva alla base.",
+    "displayNote": "due cuori, un piccolo gatto",
+    "tagLabels": [
+      "Fusa in un solo colore",
+      "Compagnia discreta",
+      "Due piccoli messaggi d'amore",
+      "Cuori e baffi"
+    ]
+  }
+}

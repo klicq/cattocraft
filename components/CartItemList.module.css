@@ -1,0 +1,21 @@
+.items { padding: 0; margin: 0; list-style: none; }
+.item { display: grid; grid-template-columns: 104px minmax(0, 1fr); gap: 20px; padding-block: 24px; border-bottom: 1px solid color-mix(in srgb, var(--color-deep-charcoal) 12%, transparent); }
+.imageLink { align-self: start; }
+.image { width: 104px; height: 110px; border-radius: 50px 50px 10px 10px; object-fit: cover; }
+.name { color: inherit; font: 22px/1.2 Georgia, serif; letter-spacing: -.03em; text-decoration: none; }
+.name:hover { text-decoration: underline; text-underline-offset: 4px; }
+.options { font-size: 10px; line-height: 1.7; margin: 8px 0 0; }
+.price { color: var(--color-deep-terracotta); font-size: 11px; margin: 8px 0 0; }
+.notes { overflow-wrap: anywhere; margin: 12px 0 0; padding-left: 10px; border-left: 2px solid var(--color-pale-peach); font-size: 11px; line-height: 1.8; }
+.notes span { font-style: italic; }
+.actions { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-top: 13px; }
+.quantity { display: inline-flex; align-items: center; border: 1px solid color-mix(in srgb, var(--color-deep-charcoal) 16%, transparent); border-radius: 7px; overflow: hidden; }
+.quantity button { width: 37px; height: 44px; padding: 0; border: 0; background: transparent; color: var(--color-deep-charcoal); font-size: 17px; cursor: pointer; }
+.quantity button:hover:not(:disabled) { background: var(--color-pale-peach); }
+.quantity button:disabled { opacity: .4; cursor: not-allowed; }
+.quantity output { min-width: 26px; text-align: center; font-size: 12px; }
+.remove { min-height: 44px; padding: 10px 0; color: var(--color-deep-terracotta); background: none; border: none; text-decoration: underline; text-underline-offset: 3px; font-size: 10px; cursor: pointer; }
+.items[data-compact="true"] .item { grid-template-columns: 78px minmax(0, 1fr); gap: 15px; }
+.items[data-compact="true"] .image { width: 78px; height: 85px; }
+.items[data-compact="true"] .name { font-size: 20px; }
+@media (max-width: 400px) { .item { grid-template-columns: 78px minmax(0, 1fr); gap: 13px; } .image { width: 78px; height: 85px; } .name { font-size: 20px; } }

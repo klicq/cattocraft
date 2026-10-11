@@ -1,0 +1,75 @@
+.shop { width: min(90%, 1320px); margin-inline: auto; padding-bottom: 94px; }
+.intro { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 60px; padding-block: 65px 67px; }
+.eyebrow { display: flex; align-items: center; gap: 10px; margin: 0 0 27px; font-size: 9px; letter-spacing: 0.15em; }
+.eyebrow > span:first-child { width: 6px; height: 6px; border-radius: 50%; background: var(--color-deep-terracotta); }
+.volume { margin-left: 16px; font-size: 8px; letter-spacing: 0.07em; }
+.heading h1 { position: relative; width: fit-content; margin: 0; font-size: clamp(48px, 5.5vw, 77px); line-height: 1.07; font-weight: 400; letter-spacing: -0.055em; }
+.heading em { font-weight: 400; color: var(--color-deep-terracotta); }
+.headingSparkle { position: absolute; top: 5px; right: -40px; width: 29px; height: 29px; color: var(--color-deep-terracotta); transform: rotate(12deg); }
+.description { margin: 24px 0 0; font-size: 13px; line-height: 1.9; }
+.studioNote {
+  position: relative;
+  width: 277px;
+  padding: 35px 25px 27px;
+  margin-right: 13px;
+  background-color: color-mix(in srgb, var(--color-pale-peach) 30%, var(--color-warm-ivory));
+  background-image: radial-gradient(color-mix(in srgb, var(--color-deep-charcoal) 8%, transparent) 0.6px, transparent 0.6px);
+  background-size: 5px 5px;
+  border: 1px solid color-mix(in srgb, var(--color-deep-charcoal) 13%, transparent);
+  box-shadow: 5px 7px 0 color-mix(in srgb, var(--color-pale-peach) 40%, transparent);
+  transform: rotate(3deg);
+  text-align: center;
+}
+.notePin { position: absolute; top: -12px; left: calc(50% - 35px); width: 70px; height: 24px; background: color-mix(in srgb, var(--color-soft-sage) 82%, transparent); transform: rotate(-7deg); border-inline: 1px dashed color-mix(in srgb, var(--color-deep-charcoal) 15%, transparent); }
+.noteCat { display: block; width: 32px; height: 32px; margin: 0 auto 14px; color: var(--color-deep-terracotta); }
+.noteLabel { font-size: 8px; letter-spacing: 0.12em; }
+.studioNote p { margin: 17px 0 12px; font: 21px/1.4 Georgia, serif; letter-spacing: -0.035em; }
+.studioNote p em { color: var(--color-deep-terracotta); }
+.noteBody { display: block; font-size: 10px; line-height: 1.9; }
+.noteSignature { display: block; margin-top: 19px; font: italic 12px Georgia, serif; color: var(--color-deep-terracotta); }
+.ordering { display: grid; grid-template-columns: 0.9fr 1.6fr; gap: 25px 50px; margin-top: 75px; padding: 42px 45px 23px; border: 1px solid color-mix(in srgb, var(--color-deep-charcoal) 16%, transparent); border-radius: 8px 60px 8px 8px; background: color-mix(in srgb, var(--color-pale-peach) 15%, var(--color-warm-ivory)); }
+.orderingIntro .eyebrow { margin-bottom: 19px; font-size: 8px; letter-spacing: 0.1em; }
+.eyebrow svg { width: 18px; height: 18px; color: var(--color-deep-terracotta); }
+.orderingIntro h2 { font-size: 35px; line-height: 1.12; letter-spacing: -0.04em; font-weight: 400; margin: 0; }
+.orderingIntro h2 em { color: var(--color-deep-terracotta); }
+.orderingIntro > p:last-child { font-size: 11px; margin-top: 17px; }
+.steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); list-style: none; gap: 25px; padding: 0; margin: 0; }
+.stepNumber { display: grid; place-items: center; width: 32px; height: 32px; border: 1px solid color-mix(in srgb, var(--color-deep-terracotta) 35%, transparent); border-radius: 45% 55% 48% 42%; font: italic 13px Georgia, serif; color: var(--color-deep-terracotta); }
+.steps h3 { font: 18px/1.3 Georgia, serif; margin: 17px 0 10px; letter-spacing: -0.025em; }
+.steps p { font-size: 11px; line-height: 1.85; margin: 0; }
+.reassurance { grid-column: 1 / -1; border-top: 1px solid color-mix(in srgb, var(--color-deep-charcoal) 12%, transparent); padding-top: 17px; margin: 3px 0 0; text-align: center; font-size: 10px; line-height: 1.8; }
+@media (max-width: 1100px) {
+  .intro { gap: 35px; }
+  .studioNote { width: 244px; padding-inline: 17px; }
+  .headingSparkle { right: -25px; width: 20px; }
+  .ordering { grid-template-columns: 1fr; padding: 35px; }
+  .orderingIntro h2 br { display: none; }
+}
+@media (max-width: 750px) {
+  .intro { grid-template-columns: 1fr; padding-block: 43px; gap: 37px; }
+  .heading h1 { font-size: clamp(43px, 8vw, 63px); }
+  .studioNote { width: 100%; max-width: 420px; justify-self: center; padding: 23px; margin: 0; transform: rotate(1deg); }
+  .noteCat { position: absolute; left: 22px; top: 18px; width: 24px; height: 24px; }
+  .studioNote p { margin-block: 10px; font-size: 21px; }
+  .studioNote p br { display: none; }
+  .noteBody br { display: none; }
+  .noteSignature { margin-top: 10px; }
+  .ordering { margin-top: 48px; padding: 28px 23px 20px; }
+  .steps { gap: 17px; }
+  .steps h3 { font-size: 16px; }
+  .shop { padding-bottom: 60px; }
+}
+@media (max-width: 479px) {
+  .shop { width: 88%; }
+  .heading h1 { font-size: clamp(37px, 10.2vw, 48px); }
+  .headingSparkle { top: -11px; right: -15px; width: 18px; }
+  .eyebrow { font-size: 8px; letter-spacing: 0.1em; }
+  .volume { margin-left: auto; }
+  .description { font-size: 12px; }
+  .desktopBreak { display: none; }
+  .steps { grid-template-columns: 1fr; gap: 23px; }
+  .steps li { display: grid; grid-template-columns: 32px 1fr; gap: 15px; }
+  .steps h3 { margin-top: 0; font-size: 19px; }
+  .orderingIntro h2 { font-size: 30px; }
+  .reassurance { font-size: 9px; }
+}
